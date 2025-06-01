@@ -15,5 +15,8 @@ RUN echo "DirectoryIndex index.php" >> /etc/apache2/apache2.conf
 # 设置工作目录
 WORKDIR /var/www/html
 
-# 👇 Render 需要你显式暴露端口
+# Render 需要你显式暴露端口
 EXPOSE 80
+
+# ✅ 启动 Apache（重要）
+CMD ["apache2-foreground"]
