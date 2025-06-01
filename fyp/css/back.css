@@ -1,0 +1,380 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+html {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar {
+  width: 200px;
+  position: fixed;
+  height: 100%;
+  background-color: #e9ecf2;
+  padding: 20px 0;
+  overflow-y: auto;
+}
+
+.sidebar a {
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+  display: block;
+  transition: all 0.3s ease;
+}
+
+.sidebar a:hover {
+  background-color: #e0f7fa;
+}
+
+.container {
+  margin-left: 13rem;
+  padding: 20px;
+}
+
+h1 {
+  margin-left: 10rem;
+  padding: 3rem;
+}
+
+h2 {
+  color: #333;
+  margin-top: 0;
+  font-size: 24px;
+}
+
+h3 {
+  color: #333;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  color: #333;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.loginform-container {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 2rem;
+  width: 350px;
+  margin-left: 15rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.loginform-container h3 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+.loginform-container input[type="text"],
+.loginform-container input[type="password"] {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loginform-container button {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 15px;
+}
+
+.loginform-container button:hover {
+  background-color: #0056b3;
+}
+
+@media screen and (max-width: 768px) {
+  .loginform-container {
+    width: 90%;
+    margin: 20px auto;
+  }
+}
+
+.form-containers {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-left: 15rem;
+}
+
+.form-container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-left: 3rem;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="date"],
+input[type="file"],
+input[type="number"],
+textarea,
+select {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+textarea {
+  height: 100px;
+}
+
+input[type="submit"],
+button {
+  width: auto;
+  background-color: #e57373;
+  color: white;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover,
+button:hover {
+  background-color: DodgerBlue;
+}
+
+.table-container {
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ccc;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #333;
+  color: white;
+}
+
+.facility-photo {
+  max-width: 100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .container {
+    margin-left: 0;
+    padding-top: 0;
+  }
+
+  .form-inline .form-group {
+    display: block;
+    width: 100%;
+  }
+
+  .form-inline button {
+    width: 100%;
+  }
+}
+
+.function {
+  display: none;
+}
+
+.function.active {
+  display: block;
+}
+
+.sub-menu {
+  display: none;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.sub-menu a {
+  font-size: 14px;
+  color: #333;
+  background-color: DodgerBlue;
+  padding: 5px;
+  border-radius: 4px;
+  display: block;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+
+.sub-menu a:hover {
+  background-color: #e0f7fa;
+}
+
+.log-container {
+  background: #f8f9fa;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-top: 20px;
+  overflow-y: auto;
+  height: 400px;
+}
+
+.alert-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.alert {
+  padding: 15px;
+  margin: 0 auto;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  text-align: center;
+  width: 50%;
+}
+
+.alert-success {
+  color: black;
+  background-color: white;
+  border-color: black;
+}
+
+.alert-warning {
+  color: black;
+  background-color: white;
+  border-color: black;
+}
+
+#dashboard {
+  margin-left: 3rem;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#dashboard h2 {
+  color: black;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#dashboard h4 {
+  color: #333;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+#dashboard .table-container table {
+  background-color: #f8f9fa;
+  margin-top: 15px;
+  border: 1px solid #ddd;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#dashboard .table-container th {
+  background-color: black;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#dashboard .table-container td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+  vertical-align: middle;
+}
+
+#dashboard .facility-photo {
+  width: 80px;
+  height: auto;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+#dashboard .facility-photo:hover {
+  transform: scale(1.1);
+}
+
+@media screen and (max-width: 768px) {
+  #dashboard {
+    margin-left: 0;
+    padding: 10px;
+  }
+
+  #dashboard h2 {
+    font-size: 20px;
+  }
+
+  #dashboard h4 {
+    font-size: 16px;
+  }
+
+  #dashboard .table-container table {
+    font-size: 14px;
+  }
+}
+
+.table-containerss {
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #ffffff;
+}

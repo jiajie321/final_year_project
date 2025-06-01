@@ -1,0 +1,20 @@
+Received Token: f1f07fb2066e04897e2d0fdc55fe0ab9
+SQL Query Executed: SELECT * FROM password_reset_tokens WHERE token = 'f1f07fb2066e04897e2d0fdc55fe0ab9' AND expiration > NOW()
+Reset Request: 
+Invalid or expired token: f1f07fb2066e04897e2d0fdc55fe0ab9
+Received Token: 2527f577e60b0446300f866a6a1e60fa
+SQL Query Executed: SELECT * FROM password_reset_tokens WHERE token = '2527f577e60b0446300f866a6a1e60fa' AND expiration > NOW()
+Reset Request: 
+Invalid or expired token: 2527f577e60b0446300f866a6a1e60fa
+Received Token: 5628cab19ee010dc51b992b252aa2dca
+SQL Query Executed: SELECT * FROM password_reset_tokens WHERE token = '5628cab19ee010dc51b992b252aa2dca' AND expiration > NOW()
+Reset Request: 
+Invalid or expired token: 5628cab19ee010dc51b992b252aa2dca
+Received Token: d7254be13a3ba231e7f6715342194ffe
+SQL Query Executed: SELECT * FROM password_reset_tokens WHERE token = 'd7254be13a3ba231e7f6715342194ffe' AND expiration > NOW()
+Reset Request: 
+Invalid or expired token: d7254be13a3ba231e7f6715342194ffe
+Received Token: fcfb826415d853a42910a8c756c67100
+SQL Query Executed: SELECT * FROM password_reset_tokens WHERE token = 'fcfb826415d853a42910a8c756c67100' AND expiration > NOW()
+Reset Request: 
+Invalid or expired token: fcfb826415d853a42910a8c756c67100

@@ -1,0 +1,186 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f9f9f9;
+}
+
+h1,
+.back-button {
+  text-align: center;
+}
+
+.form-container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+th:nth-child(3) {
+  width: 150px;
+  /* Adjusted width for the date column */
+}
+
+.back-button a {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  display: inline-block;
+  margin-top: auto;
+}
+
+.back-button a:hover {
+  background-color: DodgerBlue;
+}
+
+.message {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  width: 100%;
+  margin-top: auto;
+}
+
+.qr-code,
+.receipt-link {
+  text-align: center;
+  cursor: pointer;
+}
+
+.qr-code img {
+  width: 100px;
+  height: 100px;
+}
+
+.receipt-link a {
+  display: block;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.receipt-link a:hover {
+  background-color: DodgerBlue;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: #333;
+  padding: 1rem;
+  flex-grow: 1;
+}
+
+.navbar a {
+  color: white;
+  text-align: center;
+  padding: 10px 5px;
+  text-decoration: none;
+  flex-grow: 1;
+  white-space: nowrap;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.welcome {
+  color: white;
+  font-size: 1.2em;
+  white-space: nowrap;
+  position: relative;
+}
+
+/* Adjusted Reset Password link styles */
+#reset-password {
+  display: none;
+  color: white;
+  background-color: #444;
+  padding: 5px 10px;
+  border-radius: 4px;
+  position: absolute;
+  top: 25px;
+  left: 0;
+  white-space: nowrap;
+}
+
+.welcome:hover #reset-password {
+  display: block;
+}
+
+/* Modal styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.modal-content {
+  margin: 15% auto;
+  display: block;
+  width: 80%;
+  max-width: 350px;
+}
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}

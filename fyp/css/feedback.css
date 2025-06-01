@@ -1,0 +1,118 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f9f9f9;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: #333;
+  padding: 1rem;
+  flex-grow: 1;
+}
+.navbar a {
+  color: white;
+  text-align: center;
+  padding: 10px 5px;
+  text-decoration: none;
+  flex-grow: 1;
+  white-space: nowrap;
+}
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.welcome {
+  color: white;
+  font-size: 1.2em;
+  white-space: nowrap;
+  position: relative;
+}
+/* Adjusted Reset Password link styles */
+#reset-password {
+  display: none;
+  color: white;
+  background-color: #444;
+  padding: 5px 10px;
+  border-radius: 4px;
+  position: absolute;
+  top: 25px;
+  left: 0;
+  white-space: nowrap;
+}
+
+.welcome:hover #reset-password {
+  display: block;
+}
+h1 {
+  color: #333;
+  text-align: center;
+  margin-top: 20px;
+}
+.form-container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto;
+}
+input[type="text"],
+input[type="email"],
+textarea,
+input[type="file"],
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+textarea {
+  height: 100px;
+}
+input[type="submit"] {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background-color: DodgerBlue;
+}
+.message {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.back-button {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 5rem;
+}
+.back-button a {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  display: inline-block;
+}
+.back-button a:hover {
+  background-color: DodgerBlue;
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: auto;
+  width: 100%;
+  margin-top: auto;
+}

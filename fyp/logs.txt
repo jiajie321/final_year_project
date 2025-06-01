@@ -1,0 +1,936 @@
+2024-07-20 13:34:55 - Super Admin Login: jiajie
+2024-07-20 13:35:44 - Super Admin Logout: jiajie at 2024-07-20 13:35:44
+2024-07-21 17:29:41 - Super Admin Logout: jiajie at 2024-07-21 17:29:41
+2024-07-21 17:29:42 - Super Admin Login: jiajie
+2024-07-21 18:09:22 - Apartment Manager Logout: jiajie at 2024-07-21 18:09:22
+2024-07-21 18:09:27 - Apartment Manager Login: yutian
+2024-07-21 18:09:39 - Facility status changed: Gym to Closed
+2024-07-21 18:13:46 - Facility status changed: Gym to Open
+2024-07-21 18:19:27 - Facility status changed: Gym to Open
+2024-07-21 18:19:35 - Facility status changed: Gym to Closed
+2024-07-21 20:09:35 - Facility status changed: Gym to Open
+2024-07-21 20:09:44 - Facility status changed: Basketball_court to Closed
+2024-07-21 21:15:51 - Facility status changed: Basketball_court to Closed
+2024-07-22 12:10:08 - Apartment Manager Login: yutian
+2024-07-23 15:07:41 - Super Admin Login: jiajie
+2024-07-23 16:18:45 - Announcement sent: repair badminton
+2024-07-23 16:19:04 - Announcement deleted: repair badminton
+2024-07-23 16:19:21 - Announcement sent: repair badminton
+2024-07-23 16:29:14 - Super Admin Logout: jiajie at 2024-07-23 16:29:14
+2024-07-23 16:29:16 - Super Admin Login: jiajie
+2024-07-23 16:30:14 - Announcement sent: repair badminton
+2024-07-23 16:51:47 - Announcement sent: repair badminton
+2024-07-23 16:52:36 - Announcement deleted: repair badminton
+2024-07-23 16:52:42 - Announcement deleted: repair badminton
+2024-07-23 16:52:47 - Announcement deleted: repair badminton
+2024-07-23 16:52:57 - Announcement sent: Maintaining Fitness Equipment
+2024-07-23 16:53:10 - Announcement deleted: Maintaining Fitness Equipment
+2024-07-23 16:55:19 - Facility status changed: Basketball_court to Open
+2024-07-23 17:02:26 - Announcement sent: repair badminton
+2024-07-23 17:05:13 - Announcement deleted: repair badminton
+2024-07-23 17:16:08 - Announcement deleted: repair badminton
+2024-07-23 17:16:24 - Announcement sent: repair badminton
+2024-07-23 17:18:52 - Announcement sent: repair badminton
+2024-07-23 17:19:42 - Announcement sent: repair badminton
+2024-07-23 17:19:51 - Announcement deleted: repair badminton
+2024-07-23 17:19:56 - Announcement deleted: repair badminton
+2024-07-23 17:20:02 - Announcement deleted: repair badminton
+2024-07-23 17:20:15 - Announcement sent: repair badminton
+2024-07-23 17:29:53 - Announcement sent: repair badminton
+2024-07-23 17:30:20 - Announcement deleted: repair badminton
+2024-07-23 17:30:27 - Announcement deleted: repair badminton
+2024-07-23 17:30:45 - Announcement sent: repair badminton
+2024-07-23 17:31:50 - Announcement deleted: repair badminton
+2024-07-23 17:33:12 - Announcement deleted: repair badminton
+2024-07-23 17:33:29 - Announcement sent: repair badminton
+2024-07-23 17:33:48 - Announcement deleted: repair badminton
+2024-07-23 17:42:49 - Announcement deleted: repair badminton
+2024-07-23 17:43:02 - Announcement sent: repair badminton
+2024-07-23 17:43:22 - Announcement deleted: repair badminton
+2024-07-23 21:20:46 - Super Admin Login: jiajie
+2024-07-23 22:51:59 - Facility status changed: Gym to Closed
+2024-07-23 22:52:08 - Facility status changed: Gym to Open
+2024-07-23 22:56:38 - Facility status changed: Gym to Closed
+2024-07-23 23:09:38 - Facility status changed: Gym to Closed
+2024-07-23 23:10:01 - Super Admin Logout: yutian at 2024-07-23 23:10:01
+2024-07-23 23:10:03 - Super Admin Login: jiajie
+2024-07-25 10:52:05 - Announcement sent: repair badminton
+2024-07-25 11:13:32 - Announcement deleted: repair badminton
+2024-07-25 11:13:45 - Announcement sent: repair badminton
+2024-07-25 11:18:12 - Announcement deleted: repair badminton
+2024-07-25 17:16:34 - Super Admin Login: jiajie
+2024-07-28 15:36:31 - Super Admin Login: jiajie
+2024-07-30 18:45:38 - Super Admin Logout: jiajie at 2024-07-30 18:45:38
+2024-07-30 18:45:40 - Super Admin Login: jiajie
+2024-07-30 22:55:30 - Super Admin Logout: shikai at 2024-07-30 22:55:30
+2024-07-30 22:55:33 - Super Admin Login: jiajie
+2024-08-02 12:44:24 - Super Admin Logout: jiajie at 2024-08-02 12:44:24
+2024-08-02 12:44:26 - Super Admin Login: jiajie
+2024-08-02 14:41:03 - Super Admin Logout: jiajie at 2024-08-02 14:41:03
+2024-08-02 14:41:28 - Apartment Manager Logout:  at 2024-08-02 14:41:28
+2024-08-02 14:41:29 - Super Admin Login: jiajie
+2024-08-02 14:41:55 - Apartment Manager Logout: jiajie at 2024-08-02 14:41:55
+2024-08-02 14:41:59 - Apartment Manager Login: shikai
+2024-08-02 14:42:07 - Facility status changed: Gym to Closed
+jiajie Logout at 2024-08-02 20:26:46
+jiajie Logout at 2024-08-02 20:27:37
+2024-08-02 20:32:43 - Apartment Manager Login: shikai
+2024-08-02 20:32:47 - Facility status changed: Gym to Open
+2024-08-03 08:22:16 - Super Admin Login: jiajie
+2024-08-03 08:45:48 - Super Admin Logout: jiajie at 2024-08-03 08:45:48
+2024-08-03 08:45:52 - Apartment Manager Login: shikai
+2024-08-03 08:45:56 - Facility status changed: Gym to Open
+2024-08-03 08:46:31 - Facility status changed: Gym to Closed
+2024-08-03 08:47:26 - Apartment Manager Logout: shikai at 2024-08-03 08:47:26
+2024-08-03 09:34:16 - Super Admin Login: jiajie
+2024-08-04 13:25:15 - Super Admin Login: jiajie
+2024-08-04 08:28:24 - Super Admin Logout: jiajie at 2024-08-04 08:28:24
+2024-08-04 14:28:37 - Apartment Manager Login: shikai
+2024-08-04 14:28:44 - Facility status changed: Gym to Closed
+2024-08-04 14:29:04 - Facility status changed: Gym to Open
+2024-08-04 14:57:55 - Facility status changed: Gym to Open
+2024-08-04 14:58:06 - Apartment Manager Logout: shikaI at 2024-08-04 14:58:06
+2024-08-04 08:58:08 - Super Admin Login: jiajie
+2024-08-06 09:11:31 - Super Admin Login: jiajie
+jiajie Logout at 2024-08-06 15:34:01
+jiajie Logout at 2024-08-06 15:34:16
+2024-08-07 07:58:50 - Super Admin Logout: jiajie at 2024-08-07 07:58:50
+2024-08-07 07:58:52 - Super Admin Login: jiajie
+2024-08-07 14:48:19 - Apartment Manager Logout: jiajie at 2024-08-07 14:48:19
+2024-08-07 14:48:24 - Apartment Manager Login: shikai
+2024-08-07 09:24:52 - Super Admin Logout: shikai at 2024-08-07 09:24:52
+2024-08-07 09:24:56 - Super Admin Login: jiajie
+2024-08-07 09:52:19 - Super Admin Logout: jiajie at 2024-08-07 09:52:19
+2024-08-07 15:52:21 - Apartment Manager Logout:  at 2024-08-07 15:52:21
+2024-08-07 18:42:00 - Apartment Manager Login: shikai
+2024-08-07 18:42:15 - Announcement sent: repair badminton
+2024-08-07 14:01:10 - Super Admin Login: jiajie
+2024-08-07 14:17:33 - Super Admin Logout: shikai03 at 2024-08-07 14:17:33
+2024-08-07 20:17:39 - Apartment Manager Login: shikai
+2024-08-07 20:17:57 - Facility status changed: Gym to Closed
+2024-08-07 20:18:24 - Facility status changed: Gym to Open
+2024-08-07 21:08:47 - Apartment Manager Logout: jiajie at 2024-08-07 21:08:47
+2024-08-07 15:08:53 - Super Admin Login: jiajie
+2024-08-07 15:08:56 - Super Admin Logout: jiajie at 2024-08-07 15:08:56
+2024-08-07 21:08:58 - Apartment Manager Logout:  at 2024-08-07 21:08:58
+2024-08-07 15:09:05 - Super Admin Login: jiajie
+2024-08-07 15:09:14 - Super Admin Logout: jiajie at 2024-08-07 15:09:14
+2024-08-07 21:09:18 - Apartment Manager Logout:  at 2024-08-07 21:09:18
+2024-08-07 15:09:26 - Super Admin Logout:  at 2024-08-07 15:09:26
+2024-08-07 15:09:29 - Super Admin Logout:  at 2024-08-07 15:09:29
+2024-08-07 15:09:33 - Super Admin Logout:  at 2024-08-07 15:09:33
+2024-08-07 21:09:35 - Apartment Manager Logout:  at 2024-08-07 21:09:35
+2024-08-07 15:10:03 - Super Admin Logout:  at 2024-08-07 15:10:03
+2024-08-07 15:10:05 - Super Admin Login: jiajie
+2024-08-08 04:58:17 - Super Admin Logout: shikai03 at 2024-08-08 04:58:17
+2024-08-08 10:58:22 - Apartment Manager Logout:  at 2024-08-08 10:58:22
+2024-08-08 04:58:26 - Super Admin Logout:  at 2024-08-08 04:58:26
+2024-08-08 04:58:27 - Super Admin Login: jiajie
+2024-08-08 06:34:22 - Super Admin Login: jiajie
+2024-08-09 02:46:41 - Super Admin Login: jiajie
+2024-08-09 12:16:01 - Apartment Manager Login: shikai
+2024-08-09 06:16:28 - Super Admin Logout: shikai at 2024-08-09 06:16:28
+2024-08-09 06:16:30 - Super Admin Login: jiajie
+2024-08-12 06:13:51 - Super Admin Login: jiajie
+2024-08-12 13:35:01 - Super Admin Logout: jiajie at 2024-08-12 13:35:01
+2024-08-12 13:35:03 - Super Admin Login: jiajie
+2024-08-13 09:35:42 - Super Admin Login: jiajie
+2024-08-13 14:02:35 - Super Admin Logout: jiajie at 2024-08-13 14:02:35
+2024-08-13 14:02:36 - Super Admin Login: jiajie
+2024-08-13 14:21:29 - Super Admin Logout:  at 2024-08-13 14:21:29
+2024-08-13 14:21:32 - Super Admin Login: jiajie
+2024-08-14 04:38:48 - Super Admin Logout: shikai at 2024-08-14 04:38:48
+2024-08-14 04:38:50 - Super Admin Login: jiajie
+2024-08-14 10:19:39 - Super Admin Login: jiajie
+2024-08-14 10:34:27 - Super Admin Logout: jiajie at 2024-08-14 10:34:27
+2024-08-14 10:34:29 - Super Admin Login: jiajie
+2024-08-14 10:57:53 - Super Admin Login: jiajie
+2024-08-14 18:38:14 - Super Admin Logout: jiajie at 2024-08-14 18:38:14
+2024-08-14 18:38:16 - Super Admin Login: jiajie
+2024-08-14 17:30:01 - Super Admin Login: jiajie
+2024-08-14 23:33:35 - Facility status changed: Gym to Closed
+2024-08-14 23:38:16 - Facility status changed: Gym to Open
+2024-08-15 00:41:38 - Facility status changed: Gym to Open
+2024-08-15 12:35:00 - Super Admin Login: jiajie
+2024-08-15 12:39:41 - Super Admin Logout: jiajie at 2024-08-15 12:39:41
+2024-08-15 12:39:42 - Super Admin Login: jiajie
+2024-08-15 12:39:54 - Super Admin Logout: jiajie at 2024-08-15 12:39:54
+2024-08-15 12:39:56 - Super Admin Login: jiajie
+2024-08-15 15:03:59 - Super Admin Logout: jiajie at 2024-08-15 15:03:59
+2024-08-15 15:04:00 - Super Admin Login: jiajie
+2024-08-16 06:12:47 - Super Admin Login: jiajie
+2024-08-16 06:21:33 - Super Admin Logout: jiajie at 2024-08-16 06:21:33
+2024-08-16 06:21:35 - Super Admin Login: jiajie
+2024-08-17 03:45:16 - Super Admin Logout: jiajie at 2024-08-17 03:45:16
+2024-08-17 03:45:18 - Super Admin Login: jiajie
+2024-08-17 11:07:56 - Super Admin Login: jiajie
+2024-08-17 11:25:13 - Super Admin Logout: jiajie at 2024-08-17 11:25:13
+2024-08-17 11:25:15 - Super Admin Login: jiajie
+2024-08-17 11:30:22 - Super Admin Logout: jiajie at 2024-08-17 11:30:22
+2024-08-17 11:30:23 - Super Admin Login: jiajie
+2024-08-17 12:20:18 - Super Admin Logout: jiajie at 2024-08-17 12:20:18
+2024-08-17 12:20:20 - Super Admin Login: jiajie
+2024-08-17 12:26:32 - Super Admin Logout: jiajie at 2024-08-17 12:26:32
+2024-08-17 12:26:34 - Super Admin Login: jiajie
+2024-08-17 12:44:18 - Super Admin Logout: jiajie at 2024-08-17 12:44:18
+2024-08-17 18:44:23 - Apartment Manager Login: shikai
+2024-08-17 13:42:46 - Super Admin Logout: shikai at 2024-08-17 13:42:46
+2024-08-17 13:42:48 - Super Admin Login: jiajie
+2024-08-17 19:55:52 - Facility status changed: Badminton_court to Closed
+2024-08-17 19:56:13 - Facility status changed: Gym to Closed
+2024-08-17 19:56:21 - Facility status changed: Gym to Open
+2024-08-17 20:04:47 - Facility status changed: Gym to Open
+2024-08-17 21:16:47 - Announcement sent: Maintaining Fitness Equipment
+2024-08-17 21:16:48 - Apartment Manager Logout: jiajie at 2024-08-17 21:16:48
+2024-08-17 15:16:54 - Super Admin Login: joseph
+2024-08-17 16:21:54 - Super Admin Login: jiajie
+2024-08-17 16:22:28 - Super Admin Logout: jiajie at 2024-08-17 16:22:28
+2024-08-17 16:22:38 - Super Admin Logout:  at 2024-08-17 16:22:38
+2024-08-17 16:22:45 - Super Admin Login: andy
+2024-08-17 22:33:27 - Apartment Manager Logout: andy at 2024-08-17 22:33:27
+2024-08-17 22:33:43 - Apartment Manager Login: shikai
+2024-08-17 22:33:50 - Announcement sent: da by user ID: 1
+2024-08-17 22:36:03 - Announcement sent: da
+2024-08-17 22:36:45 - Announcement deleted: da
+2024-08-17 22:36:59 - Announcement sent: repair badminton
+2024-08-17 22:37:10 - Announcement deleted: repair badminton
+2024-08-17 16:43:30 - Super Admin Logout: shikai at 2024-08-17 16:43:30
+2024-08-17 16:43:31 - Super Admin Login: jiajie
+2024-08-17 17:02:16 - Super Admin Logout: jiajie at 2024-08-17 17:02:16
+2024-08-17 17:02:21 - Super Admin Login: andy
+2024-08-17 23:10:46 - Announcement deleted: repair badminton
+2024-08-17 23:18:25 - Apartment Manager Logout: andy at 2024-08-17 23:18:25
+2024-08-17 23:18:30 - Apartment Manager Login: shikai
+2024-08-17 23:18:43 - Announcement sent: dada
+2024-08-17 18:00:09 - Super Admin Login: jiajie
+2024-08-17 18:16:44 - Super Admin Logout: jiajie at 2024-08-17 18:16:44
+2024-08-17 18:16:53 - Super Admin Login: andy
+2024-08-18 00:21:45 - Apartment Manager Logout: andy at 2024-08-18 00:21:45
+2024-08-18 00:21:50 - Apartment Manager Login: shikai
+2024-08-18 00:22:00 - Announcement sent: repair badminton
+2024-08-18 00:22:24 - Announcement deleted: repair badminton
+2024-08-18 00:47:45 - Announcement deleted: repair badminton
+2024-08-18 10:15:51 - Apartment Manager Login: shikai
+2024-08-18 10:15:56 - Announcement sent: repair badminton
+2024-08-18 12:07:25 - Apartment Manager Logout: jiajie at 2024-08-18 12:07:25
+2024-08-18 12:07:36 - Apartment Manager Login: shikai
+2024-08-18 12:07:51 - Facility status changed: Gym to Closed
+2024-08-18 12:08:00 - Facility status changed: Gym to Open
+2024-08-18 06:13:58 - Super Admin Logout: jiajie at 2024-08-18 06:13:58
+2024-08-18 06:14:00 - Super Admin Login: jiajie
+2024-08-18 06:50:19 - Super Admin Logout: jiajie at 2024-08-18 06:50:19
+2024-08-18 06:50:31 - Super Admin Login: andy
+2024-08-18 12:59:28 - Facility status changed: Gym to Open
+2024-08-18 07:17:21 - Super Admin Logout: andy at 2024-08-18 07:17:21
+2024-08-18 07:17:23 - Super Admin Login: jiajie
+2024-08-18 13:30:29 - Facility status changed: Gym to Open
+2024-08-18 08:24:08 - Super Admin Login: jiajie
+2024-08-18 14:45:56 - Facility status changed: Gym to Open
+2024-08-18 14:45:58 - Apartment Manager Logout: jiajie at 2024-08-18 14:45:58
+2024-08-18 14:46:47 - Apartment Manager Login: shikai
+2024-08-18 08:52:45 - Super Admin Logout: shikai at 2024-08-18 08:52:45
+2024-08-18 08:52:49 - Super Admin Login: jiajie
+2024-08-18 08:52:51 - Super Admin Logout: jiajie at 2024-08-18 08:52:51
+2024-08-18 08:52:54 - Super Admin Login: jiajie
+2024-08-18 08:53:19 - Super Admin Logout: jiajie at 2024-08-18 08:53:19
+2024-08-18 08:53:25 - Super Admin Login: yutian
+2024-08-18 08:54:09 - Super Admin Logout: yutian at 2024-08-18 08:54:09
+2024-08-18 08:54:12 - Super Admin Login: jiajie
+2024-08-18 08:59:54 - Super Admin Logout: jiajie at 2024-08-18 08:59:54
+2024-08-18 08:59:56 - Super Admin Login: jiajie
+2024-08-18 08:59:58 - Super Admin Logout: jiajie at 2024-08-18 08:59:58
+2024-08-18 09:00:14 - Super Admin Login: yutian
+2024-08-18 09:01:42 - Super Admin Logout: yutian at 2024-08-18 09:01:42
+2024-08-18 09:01:44 - Super Admin Login: jiajie
+2024-08-18 09:16:07 - Super Admin Logout: jiajie at 2024-08-18 09:16:07
+2024-08-18 09:16:13 - Super Admin Login: yutian
+2024-08-18 09:32:11 - Super Admin Logout: jiajie at 2024-08-18 09:32:11
+2024-08-18 09:32:18 - Super Admin Login: yutian
+2024-08-18 09:48:41 - Super Admin Logout: yutian at 2024-08-18 09:48:41
+2024-08-18 09:48:43 - Super Admin Login: jiajie
+2024-08-18 09:50:19 - Super Admin Logout: jiajie at 2024-08-18 09:50:19
+2024-08-18 09:50:21 - Super Admin Login: jiajie
+2024-08-18 09:50:29 - Super Admin Logout: jiajie at 2024-08-18 09:50:29
+2024-08-18 09:50:58 - Super Admin Login: yutian
+2024-08-18 15:53:57 - Apartment Manager Logout: yutian at 2024-08-18 15:53:57
+2024-08-18 15:54:03 - Apartment Manager Login: shikai
+2024-08-18 15:54:10 - Facility status changed: Gym to Closed
+2024-08-18 15:54:25 - Facility status changed: Gym to Open
+2024-08-18 15:54:37 - Facility status changed: Gym to Open
+2024-08-18 15:54:45 - Apartment Manager Login: shikai
+2024-08-18 15:54:51 - Announcement sent: repair badminton
+2024-08-18 15:55:04 - Announcement deleted: repair badminton
+2024-08-18 15:55:26 - Apartment Manager Logout: jiajie at 2024-08-18 15:55:26
+2024-08-18 15:55:31 - Apartment Manager Login: shikai
+2024-08-18 15:55:44 - Announcement sent: repair badminton_court
+2024-08-18 15:30:26 - Super Admin Login: jiajie
+2024-08-18 16:42:05 - Super Admin Logout: shikai at 2024-08-18 16:42:05
+2024-08-18 16:42:07 - Super Admin Login: jiajie
+2024-08-18 22:45:01 - Apartment Manager Logout: shikai at 2024-08-18 22:45:01
+2024-08-18 22:45:05 - Apartment Manager Login: shikai
+2024-08-18 22:45:13 - Apartment Manager Logout: shikai at 2024-08-18 22:45:13
+2024-08-18 22:45:17 - Apartment Manager Login: shikai
+2024-08-18 22:45:28 - Apartment Manager Logout: shikai at 2024-08-18 22:45:28
+2024-08-18 22:45:33 - Apartment Manager Login: shikai
+2024-08-18 22:51:53 - Apartment Manager Logout: shikai at 2024-08-18 22:51:53
+2024-08-18 22:51:58 - Apartment Manager Login: shikai
+2024-08-18 22:52:35 - Facility status changed: Gym to Closed
+2024-08-18 22:52:44 - Facility status changed: Gym to Open
+2024-08-18 22:53:03 - Announcement sent: repair badminton_court
+2024-08-18 22:53:24 - Announcement deleted: repair badminton
+2024-08-18 22:53:36 - Announcement deleted: repair badminton_court
+2024-08-18 23:06:12 - Facility status changed: Gym to Closed
+2024-08-18 23:06:19 - Facility status changed: Gym to Open
+2024-08-18 23:06:36 - Announcement sent: repair badminton
+2024-08-18 23:06:42 - Announcement deleted: repair badminton
+2024-08-19 17:14:17 - Admin Manager Logout: jiajie at 2024-08-19 17:14:17
+2024-08-19 17:14:21 - Admin Manager Login: shikai
+2024-08-19 17:14:31 - Announcement sent: repair badminton
+2024-08-20 02:36:44 - Super Admin Login: jiajie
+2024-08-20 08:43:21 - Super Admin Logout: jiajie at 2024-08-20 08:43:21
+2024-08-20 08:43:23 - Super Admin Login: jiajie
+2024-08-20 10:45:00 - Super Admin Logout: shikai at 2024-08-20 10:45:00
+2024-08-20 16:45:05 - Admin Manager Login: shikai
+2024-08-20 16:45:12 - Announcement sent: repair badminton
+2024-08-20 16:45:22 - Announcement deleted: repair badminton
+2024-08-20 22:48:23 - Admin Manager Logout: shikai at 2024-08-20 22:48:23
+2024-08-20 22:48:28 - Admin Manager Login: shikai
+2024-08-20 22:48:38 - Announcement sent: repair badminton
+2024-08-20 22:48:42 - Announcement deleted: repair badminton
+2024-08-20 22:48:57 - Announcement sent: repair badminton
+2024-08-20 22:49:06 - Announcement deleted: repair badminton
+2024-08-20 22:52:01 - Announcement deleted: repair badminton
+2024-08-20 22:52:10 - Announcement sent: repair badminton
+2024-08-20 22:52:20 - Announcement deleted: repair badminton
+2024-08-20 22:52:44 - Facility status changed: Gym to Closed
+2024-08-20 22:52:49 - Facility status changed: Gym to Open
+2024-08-21 03:46:53 - Super Admin Login: jiajie
+2024-08-21 09:55:29 - Admin Manager Logout: jiajie at 2024-08-21 09:55:29
+2024-08-21 09:55:33 - Admin Manager Login: shikai
+2024-08-21 03:56:34 - Super Admin Logout: shikai at 2024-08-21 03:56:34
+2024-08-21 03:56:39 - Super Admin Login: andy
+2024-08-21 03:57:20 - Super Admin Logout: andy at 2024-08-21 03:57:20
+2024-08-21 03:57:24 - Super Admin Login: jiajie
+2024-08-21 09:59:35 - Facility status changed: Gym to Closed
+2024-08-21 10:50:40 - Facility status changed: Gym to Closed
+2024-08-21 10:55:28 - Facility status changed: Gym to Open
+2024-08-21 11:05:17 - Facility status changed: Gym to Open
+2024-08-21 16:57:13 - Super Admin Logout: jiajie at 2024-08-21 16:57:13
+2024-08-21 17:03:49 - Super Admin Login: jiajie
+2024-08-21 18:04:12 - Super Admin Logout: jiajie at 2024-08-21 18:04:12
+2024-08-22 00:04:17 - Admin Manager Login: shikai
+2024-08-22 06:20:36 - Super Admin Login: jiajie
+2024-08-23 12:13:08 - Admin Manager Logout: jiajie at 2024-08-23 12:13:08
+Unknown User Logout at 2024-08-23 12:34:44
+Unknown User Logout at 2024-08-23 12:34:44
+Unknown User Logout at 2024-08-23 12:34:45
+2024-08-23 06:38:32 - Super Admin Login: jiajie
+2024-08-23 07:27:24 - Super Admin Logout: jiajie at 2024-08-23 07:27:24
+2024-08-23 07:27:41 - Super Admin Login: jiajie
+2024-08-23 07:27:45 - Super Admin Logout: jiajie at 2024-08-23 07:27:45
+2024-08-23 07:28:30 - Super Admin Login: jiajie
+2024-08-23 08:34:27 - Super Admin Logout: jiajie at 2024-08-23 08:34:27
+2024-08-23 08:34:39 - Super Admin Login: jiajie
+2024-08-23 08:35:20 - Super Admin Logout: jiajie at 2024-08-23 08:35:20
+2024-08-24 16:49:49 - Admin Manager Login: shikai
+2024-08-24 16:49:54 - Facility status changed: Gym to Closed
+2024-08-24 19:01:48 - Facility status changed: Gym to Closed
+2024-08-24 19:04:36 - Facility status changed: Gym to Closed
+2024-08-24 19:12:12 - Admin Manager Logout: shikai at 2024-08-24 19:12:12
+2024-08-24 19:12:18 - Admin Manager Login: shikai
+2024-08-24 19:12:30 - Facility status changed: Gym to Open
+2024-08-24 19:12:38 - Facility status changed: Gym to Closed
+2024-08-24 19:21:41 - Facility status changed: Gym to Closed by Admin Manager ID: 1
+2024-08-24 19:27:53 -  退出: shikai 在 2024-08-24 19:27:53
+2024-08-24 19:27:54 - Super Admin 登录: jiajie
+2024-08-24 19:27:56 - Super Admin 退出: jiajie 在 2024-08-24 19:27:56
+2024-08-24 19:27:58 - Super Admin 登录: jiajie
+2024-08-24 19:28:05 - Super Admin 退出: jiajie 在 2024-08-24 19:28:05
+2024-08-24 14:16:18 - Super Admin Login: jiajie
+2024-08-24 20:24:43 - Facility status changed: Gym to Open by Admin Manager ID: 1
+2024-08-24 20:25:00 - Facility status changed: Gym to Closed by Admin Manager ID: 1
+2024-08-24 20:25:16 - Announcement sent: repair badminton
+2024-08-24 20:25:25 - Announcement deleted: repair badminton
+2024-08-24 22:11:32 - Super Admin Logout: jiajie at 2024-08-24 22:11:32
+2024-08-24 22:11:36 - Super Admin Login: jiajie
+2024-08-24 22:11:38 - Super Admin Logout: jiajie at 2024-08-24 22:11:38
+2024-08-24 22:11:42 - Super Admin Logout:  at 2024-08-24 22:11:42
+2024-08-24 16:12:09 - Super Admin Login: jiajie
+2024-08-24 22:26:07 - Super Admin Logout: jiajie at 2024-08-24 22:26:07
+2024-08-24 22:26:09 - Super Admin Login: jiajie
+2024-08-24 22:26:11 - Super Admin Logout: jiajie at 2024-08-24 22:26:11
+2024-08-24 22:26:15 - Apartment Manager Login: shikai
+2024-08-24 22:26:19 - Apartment Manager Logout: shikai at 2024-08-24 22:26:19
+2024-08-24 22:26:31 - Super Admin Login: jiajie
+2024-08-24 22:30:38 - Super Admin Logout: jiajie at 2024-08-24 22:30:38
+2024-08-24 22:30:39 - Super Admin Login: jiajie
+2024-08-24 22:30:44 - Super Admin Logout: jiajie at 2024-08-24 22:30:44
+2024-08-24 22:30:48 - Apartment Manager Login: shikai
+2024-08-24 22:31:02 - Apartment Manager Logout: shikai at 2024-08-24 22:31:02
+2024-08-24 22:31:03 - Super Admin Login: jiajie
+2024-08-24 22:36:01 - Super Admin Logout: jiajie at 2024-08-24 22:36:01
+2024-08-24 22:36:02 - Super Admin Login: jiajie
+2024-08-24 22:36:05 - Super Admin Logout: jiajie at 2024-08-24 22:36:05
+2024-08-24 22:36:10 - Apartment Manager Login: shikai
+2024-08-24 22:36:17 - Apartment Manager Logout: shikai at 2024-08-24 22:36:17
+2024-08-24 17:18:29 - Super Admin Login: jiajie
+2024-08-24 17:32:37 - Super Admin Logout: jiajie at 2024-08-24 17:32:37
+2024-08-24 17:32:40 - Super Admin Logout:  at 2024-08-24 17:32:40
+2024-08-24 17:33:43 - Super Admin Login: jiajie
+2024-08-24 17:33:46 - Super Admin Logout: jiajie at 2024-08-24 17:33:46
+2024-08-24 17:34:09 - Super Admin Login: jiajie
+2024-08-24 17:34:55 - Super Admin Logout: jiajie at 2024-08-24 17:34:55
+2024-08-24 17:34:56 - Super Admin Login: jiajie
+2024-08-24 17:35:02 - Super Admin Logout: jiajie at 2024-08-24 17:35:02
+2024-08-24 17:35:03 - Super Admin Login: jiajie
+2024-08-24 23:41:16 - Admin Manager Logout: jiajie at 2024-08-24 23:41:16
+2024-08-24 17:53:05 - Super Admin Login: jiajie
+2024-08-25 04:34:49 - Super Admin Logout:  at 2024-08-25 04:34:49
+2024-08-25 04:34:51 - Super Admin Logout:  at 2024-08-25 04:34:51
+2024-08-25 10:38:57 - Admin Manager Login: shikai
+2024-08-25 04:39:24 - Super Admin Login: jiajie
+2024-08-25 10:48:00 - Facility status changed: Gym to Open by Admin Manager ID: 1
+2024-08-25 11:08:02 - Admin Manager Logout: jiajie at 2024-08-25 11:08:02
+2024-08-25 11:08:07 - Admin Manager Login: yutian
+2024-08-25 11:08:13 - Announcement sent: repair badminton
+2024-08-25 11:08:18 - Facility status changed: Gym to Closed by Admin Manager ID: 3
+2024-08-25 06:10:33 - Super Admin Logout: yutian at 2024-08-25 06:10:33
+2024-08-25 06:10:34 - Super Admin Login: jiajie
+2024-08-25 12:11:49 - Facility status changed: Gym to Closed by Admin Manager ID: 1
+2024-08-25 13:26:40 - Facility status changed: Gym to Closed by Admin Manager ID: 1
+2024-08-25 09:47:45 - Super Admin Logout: jiajie at 2024-08-25 09:47:45
+2024-08-25 09:47:54 - Super Admin Logout:  at 2024-08-25 09:47:54
+2024-08-25 09:47:59 - Super Admin Logout:  at 2024-08-25 09:47:59
+2024-08-25 09:48:04 - Super Admin Login: yutian
+2024-08-25 20:04:16 - Facility status changed: Gym to Closed by Admin Manager ID: 5
+2024-08-25 20:04:21 - Facility status changed: Gym to Open by Admin Manager ID: 5
+2024-08-25 14:10:29 - Super Admin Logout: jiajie at 2024-08-25 14:10:29
+2024-08-25 14:10:30 - Super Admin Login: jiajie
+2024-08-25 14:26:14 - Super Admin Logout: jiajie at 2024-08-25 14:26:14
+2024-08-25 14:26:15 - Super Admin Login: jiajie
+2024-08-25 14:26:33 - Super Admin Logout: jiajie at 2024-08-25 14:26:33
+2024-08-25 14:26:34 - Super Admin Login: jiajie
+2024-08-25 14:26:56 - Super Admin Logout: jiajie at 2024-08-25 14:26:56
+2024-08-25 14:27:15 - Super Admin Login: jiajie
+2024-08-25 14:32:04 - Super Admin Logout: jiajie at 2024-08-25 14:32:04
+2024-08-25 14:32:08 - Super Admin Login: jiajie
+2024-08-25 14:32:13 - Super Admin Logout: jiajie at 2024-08-25 14:32:13
+2024-08-25 14:32:21 - Super Admin Logout:  at 2024-08-25 14:32:21
+2024-08-25 14:32:55 - Super Admin Login: jiajie
+2024-08-25 14:33:32 - Super Admin Logout: jiajie at 2024-08-25 14:33:32
+2024-08-25 14:33:34 - Super Admin Login: jiajie
+2024-08-25 20:42:32 - Admin Manager Logout: jiajie at 2024-08-25 20:42:32
+2024-08-25 20:42:36 - Admin Manager Login: shikai
+2024-08-25 21:05:35 - Admin Manager Logout: shikai at 2024-08-25 21:05:35
+2024-08-25 21:05:39 - Admin Manager Login: shikai
+2024-08-25 21:07:10 - Announcement sent: repair badminton_court
+2024-08-25 21:07:20 - Announcement deleted: repair badminton_court
+2024-08-25 21:07:37 - Facility status changed: Gym to Closed by Admin Manager ID: 5
+2024-08-25 21:07:43 - Facility status changed: Gym to Open by Admin Manager ID: 5
+2024-08-25 21:08:53 - Facility status changed: Gym to Open by Admin Manager ID: 5
+2024-08-25 21:11:28 - Facility status changed: Gym to Open by Admin Manager ID: 5
+2024-08-25 21:13:01 - Facility status changed: Gym to Open by Admin Manager ID: 5
+2024-08-25 21:13:14 - Facility status changed: Gym to Open by Admin Manager ID: 5
+2024-08-25 21:13:29 - Facility status changed: Gym to Open by Admin Manager ID: 5
+2024-08-25 15:16:11 - Super Admin Logout: shikai at 2024-08-25 15:16:11
+2024-08-25 15:16:12 - Super Admin Login: jiajie
+2024-08-26 15:47:33 - Super Admin Login: jiajie
+2024-08-26 15:47:40 - Super Admin Logout: jiajie at 2024-08-26 15:47:40
+2024-08-26 15:47:50 - Admin Manager Login: shikai
+2024-08-26 15:47:56 - Admin_Manager Logout: shikai at 2024-08-26 15:47:56
+2024-08-26 10:01:09 - Super Admin Login: jiajie
+2024-08-26 10:01:16 - Super Admin Logout: jiajie at 2024-08-26 10:01:16
+2024-08-26 10:01:23 - Apartment Manager Login: shikai
+2024-08-26 10:01:43 - Apartment Manager Logout: shikai at 2024-08-26 10:01:43
+2024-08-26 10:01:44 - Super Admin Login: jiajie
+2024-08-26 10:01:46 - Super Admin Logout: jiajie at 2024-08-26 10:01:46
+2024-08-26 16:33:14 - Admin Manager Login: shikai
+2024-08-26 16:59:05 -  Logout: shikai at 2024-08-26 16:59:05
+2024-08-26 16:59:09 -  Logout:  at 2024-08-26 16:59:09
+2024-08-26 17:02:44 -  Logout:  at 2024-08-26 17:02:44
+2024-08-26 17:03:39 -  Logout:  at 2024-08-26 17:03:39
+2024-08-26 17:03:40 -  Logout:  at 2024-08-26 17:03:40
+2024-08-26 17:03:40 -  Logout:  at 2024-08-26 17:03:40
+2024-08-26 17:03:40 -  Logout:  at 2024-08-26 17:03:40
+2024-08-26 17:03:40 -  Logout:  at 2024-08-26 17:03:40
+2024-08-26 11:37:27 - Admin Manager Logout:  at 2024-08-26 11:37:27
+2024-08-26 17:37:34 - Admin Manager Logout:  at 2024-08-26 17:37:34
+2024-08-26 17:37:35 - Admin Manager Logout:  at 2024-08-26 17:37:35
+2024-08-26 17:37:36 - Admin Manager Logout:  at 2024-08-26 17:37:36
+2024-08-26 17:37:40 - Admin Manager Login: shikai
+2024-08-26 17:37:43 - Admin Manager Logout: shikai at 2024-08-26 17:37:43
+2024-08-26 17:37:52 - Admin Manager Login: shikai
+2024-08-26 17:37:54 - Admin Manager Logout: shikai at 2024-08-26 17:37:54
+2024-08-26 11:40:00 - Admin Manager Logout:  at 2024-08-26 11:40:00
+2024-08-26 11:40:00 - Admin Manager Logout:  at 2024-08-26 11:40:00
+2024-08-26 11:40:00 - Admin Manager Logout:  at 2024-08-26 11:40:00
+2024-08-26 11:40:15 - Admin Manager Logout:  at 2024-08-26 11:40:15
+2024-08-26 11:40:16 - Admin Manager Logout:  at 2024-08-26 11:40:16
+2024-08-26 11:40:16 - Admin Manager Logout:  at 2024-08-26 11:40:16
+2024-08-27 13:34:20 - Admin Manager Logout: jiajie at 2024-08-27 13:34:20
+2024-08-27 20:05:51 - Admin Manager Logout:  at 2024-08-27 20:05:51
+2024-08-27 20:05:51 - Admin Manager Logout:  at 2024-08-27 20:05:51
+2024-08-27 20:05:52 - Admin Manager Logout:  at 2024-08-27 20:05:52
+2024-08-27 20:05:52 - Admin Manager Logout:  at 2024-08-27 20:05:52
+2024-08-27 20:05:52 - Admin Manager Logout:  at 2024-08-27 20:05:52
+2024-08-27 14:24:52 - Admin Manager Login: shikai
+2024-08-27 14:25:00 - Admin Manager Logout: shikai at 2024-08-27 14:25:00
+2024-08-27 14:25:04 - Admin Manager Logout:  at 2024-08-27 14:25:04
+2024-08-27 14:26:01 - Admin Manager Login: shikai
+2024-08-27 14:43:51 - Logout: shikai at 2024-08-27 14:43:51
+2024-08-27 14:43:52 - Super Admin Login: jiajie
+2024-08-27 14:43:56 - Logout: jiajie at 2024-08-27 14:43:56
+2024-08-27 14:43:59 - Admin Manager Login: shikai
+2024-08-27 14:44:08 - Logout: shikai at 2024-08-27 14:44:08
+[2024-08-27 15:26:12] Super Admin Login: jiajie
+[2024-08-27 15:27:56] Logout: jiajie
+[2024-08-27 15:27:59] Super Admin Login: jiajie
+[2024-08-27 15:28:01] Logout: jiajie
+[2024-08-27 15:28:05] Admin Manager Login: shikai
+[2024-08-27 15:28:19] Logout: shikai
+[2024-08-27 15:28:20] Super Admin Login: jiajie
+[2024-08-27 15:29:03] Logout: jiajie
+[2024-08-27 15:29:07] Admin Manager Login: shikai
+2024-08-27 16:44:15 - Super Admin Logout: shikai at 2024-08-27 16:44:15
+2024-08-27 16:44:16 - Super Admin Login: jiajie
+2024-08-27 16:44:20 - Super Admin Logout: jiajie at 2024-08-27 16:44:20
+2024-08-27 16:44:26 - Super Admin Logout:  at 2024-08-27 16:44:26
+2024-08-27 22:56:30 -  登出:  at 2024-08-27 22:56:30
+2024-08-27 16:57:53 - Admin Manager Login: shikai
+2024-08-27 16:57:58 - Admin Manager Logout: shikai at 2024-08-27 16:57:58
+2024-08-27 16:57:59 - Admin Manager Logout:  at 2024-08-27 16:57:59
+2024-08-27 16:58:00 - Admin Manager Logout:  at 2024-08-27 16:58:00
+2024-08-27 16:58:00 - Admin Manager Logout:  at 2024-08-27 16:58:00
+2024-08-27 16:58:00 - Admin Manager Logout:  at 2024-08-27 16:58:00
+2024-08-27 16:59:19 - Admin Manager Logout:  at 2024-08-27 16:59:19
+2024-08-27 16:59:49 - Admin Manager Logout:  at 2024-08-27 16:59:49
+2024-08-27 16:59:50 - Admin Manager Logout:  at 2024-08-27 16:59:50
+2024-08-27 23:00:37 -  Logout:  at 2024-08-27 23:00:37
+2024-08-27 23:00:38 -  Logout:  at 2024-08-27 23:00:38
+2024-08-27 23:00:38 -  Logout:  at 2024-08-27 23:00:38
+2024-08-27 23:00:38 -  Logout:  at 2024-08-27 23:00:38
+2024-08-27 23:00:39 -  Logout:  at 2024-08-27 23:00:39
+2024-08-27 23:02:17 - Admin Manager Logout:  at 2024-08-27 23:02:17
+2024-08-27 23:02:18 - Admin Manager Logout:  at 2024-08-27 23:02:18
+2024-08-27 23:02:18 - Admin Manager Logout:  at 2024-08-27 23:02:18
+2024-08-27 23:02:18 - Admin Manager Logout:  at 2024-08-27 23:02:18
+2024-08-27 17:02:41 - Admin Manager Logout:  at 2024-08-27 17:02:41
+2024-08-27 17:02:43 - Admin Manager Logout:  at 2024-08-27 17:02:43
+2024-08-27 17:02:43 - Admin Manager Logout:  at 2024-08-27 17:02:43
+2024-08-27 17:02:43 - Admin Manager Logout:  at 2024-08-27 17:02:43
+2024-08-27 17:02:44 - Admin Manager Logout:  at 2024-08-27 17:02:44
+2024-08-27 17:02:44 - Admin Manager Logout:  at 2024-08-27 17:02:44
+2024-08-27 17:02:44 - Admin Manager Logout:  at 2024-08-27 17:02:44
+2024-08-27 17:03:34 - Admin Manager Logout:  at 2024-08-27 17:03:34
+2024-08-27 17:04:28 - Admin Manager Logout:  at 2024-08-27 17:04:28
+2024-08-27 17:04:32 - Admin Manager Login: shikai
+2024-08-27 17:08:55 - Admin Manager Logout: shikai at 2024-08-27 17:08:55
+2024-08-27 17:11:36 -  Login: shikai
+2024-08-27 17:12:30 - Admin Manager Logout: shikai at 2024-08-27 17:12:30
+2024-08-27 17:12:32 - Super Admin Login: jiajie
+2024-08-27 17:12:34 - Admin Manager Logout: jiajie at 2024-08-27 17:12:34
+2024-08-27 17:12:37 -  Login: shikai
+2024-08-28 10:40:21 - Admin Manager Logout: kelvin at 2024-08-28 10:40:21
+2024-08-28 10:40:22 - Super Admin Login: jiajie
+2024-08-28 11:37:48 - Admin Manager Logout: jiajie at 2024-08-28 11:37:48
+2024-08-28 11:37:49 - Super Admin Login: jiajie
+2024-08-28 11:38:33 - Admin Manager Logout: jiajie at 2024-08-28 11:38:33
+2024-08-28 11:38:36 -  Login: shikai
+2024-08-28 11:38:44 - Admin Manager Logout: shikai at 2024-08-28 11:38:44
+2024-08-28 11:38:45 - Super Admin Login: jiajie
+2024-08-28 11:55:53 - Super Admin Logout: jiajie at 2024-08-28 11:55:53
+2024-08-28 11:55:55 - Super Admin Login: jiajie
+2024-08-28 11:55:57 - Super Admin Logout: jiajie at 2024-08-28 11:55:57
+2024-08-28 11:56:01 - Apartment Manager Login: shikai
+2024-08-28 11:56:13 - Apartment Manager Logout: shikai at 2024-08-28 11:56:13
+2024-08-28 12:26:51 - Super Admin Login: jiajie
+2024-08-28 12:29:23 - Super Admin Logout: jiajie at 2024-08-28 12:29:23
+2024-08-28 12:29:29 - Apartment Manager Login: shikai
+2024-08-28 13:11:31 - Apartment Manager Logout: shikai at 2024-08-28 13:11:31
+2024-08-28 13:11:32 - Super Admin Login: jiajie
+2024-08-28 13:11:35 - Super Admin Logout: jiajie at 2024-08-28 13:11:35
+2024-08-28 13:11:43 - Apartment Manager Login: shikai
+2024-08-28 13:12:25 - Apartment Manager Logout: shikai at 2024-08-28 13:12:25
+2024-08-28 13:12:26 - Super Admin Login: jiajie
+2024-08-28 14:29:49 - Super Admin Logout: jiajie at 2024-08-28 14:29:49
+2024-08-28 14:29:54 - Apartment Manager Login: shikai
+2024-08-28 14:30:24 - Apartment Manager Logout: shikai at 2024-08-28 14:30:24
+2024-08-28 14:30:25 - Super Admin Login: jiajie
+2024-08-28 14:30:54 - Super Admin Logout: jiajie at 2024-08-28 14:30:54
+2024-08-28 14:30:57 - Apartment Manager Login: shikai
+2024-08-28 14:38:59 - Apartment Manager Logout: shikai at 2024-08-28 14:38:59
+2024-08-28 14:39:01 - Super Admin Login: jiajie
+2024-08-28 14:47:55 - Super Admin Logout: jiajie at 2024-08-28 14:47:55
+2024-08-28 14:47:56 - Super Admin Login: jiajie
+2024-08-28 20:49:27 - Super Admin Logout: jiajie at 2024-08-28 20:49:27
+2024-08-28 20:49:28 - Super Admin Login: jiajie
+2024-08-28 20:50:10 - Super Admin Logout: jiajie at 2024-08-28 20:50:10
+2024-08-28 20:50:14 - Apartment Manager Login: shikai
+2024-08-28 21:01:18 - Apartment Manager Logout: shikai at 2024-08-28 21:01:18
+2024-08-28 21:01:19 - Super Admin Login: jiajie
+2024-08-28 21:01:38 - Super Admin Logout: jiajie at 2024-08-28 21:01:38
+2024-08-28 21:01:55 - Apartment Manager Login: shikai
+2024-08-28 21:13:24 - Apartment Manager Logout: shikai at 2024-08-28 21:13:24
+2024-08-28 21:13:26 - Super Admin Login: jiajie
+2024-08-28 21:14:44 - Super Admin Logout: jiajie at 2024-08-28 21:14:44
+2024-08-28 21:15:01 - Apartment Manager Login: shikai
+2024-08-28 21:16:04 - Apartment Manager Logout: jiajie at 2024-08-28 21:16:04
+2024-08-28 21:16:05 - Super Admin Login: jiajie
+2024-08-28 21:16:09 - Super Admin Logout: jiajie at 2024-08-28 21:16:09
+2024-08-28 21:16:12 - Apartment Manager Login: shikai
+2024-08-28 21:43:27 - Apartment Manager Logout: shikai at 2024-08-28 21:43:27
+2024-08-28 21:43:28 - Super Admin Login: jiajie
+2024-08-28 21:46:17 - Super Admin Logout: jiajie at 2024-08-28 21:46:17
+2024-08-28 21:46:20 - Apartment Manager Login: shikai
+2024-08-28 21:47:31 - Apartment Manager Logout: shikai at 2024-08-28 21:47:31
+2024-08-28 21:47:48 - Super Admin Login: jiajie
+2024-08-28 21:48:22 - Super Admin Logout: jiajie at 2024-08-28 21:48:22
+2024-08-28 21:48:23 - Super Admin Login: jiajie
+2024-08-28 21:48:26 - Super Admin Logout: jiajie at 2024-08-28 21:48:26
+2024-08-28 21:48:35 - Apartment Manager Login: shikai
+2024-08-28 21:50:20 - Facility status changed: Gym to Closed by Admin Manager ID: 5
+2024-08-28 21:50:23 - Apartment Manager Logout: shikai at 2024-08-28 21:50:23
+2024-08-28 21:50:24 - Super Admin Login: jiajie
+2024-08-28 21:50:49 - Super Admin Logout: jiajie at 2024-08-28 21:50:49
+2024-08-28 22:01:17 - Super Admin Login: jiajie
+2024-08-28 22:01:36 - Super Admin Logout: jiajie at 2024-08-28 22:01:36
+2024-08-28 22:01:40 - Apartment Manager Login: shikai
+2024-08-28 22:03:36 - Apartment Manager Logout: shikai at 2024-08-28 22:03:36
+2024-08-28 22:03:38 - Super Admin Login: jiajie
+2024-08-28 22:05:53 - Super Admin Logout: jiajie at 2024-08-28 22:05:53
+2024-08-28 22:14:25 - Super Admin Login: jiajie
+2024-08-28 22:14:40 - Super Admin Logout: jiajie at 2024-08-28 22:14:40
+2024-08-28 22:14:44 - Apartment Manager Login: shikai
+2024-08-28 22:16:06 - Apartment Manager Logout: shikai at 2024-08-28 22:16:06
+2024-08-28 22:21:23 - Super Admin Login: jiajie
+2024-08-28 22:21:32 - Super Admin Logout: jiajie at 2024-08-28 22:21:32
+2024-08-28 22:39:09 - Super Admin Login: jiajie
+2024-08-28 22:39:11 - Super Admin Logout: jiajie at 2024-08-28 22:39:11
+2024-08-28 22:39:28 - Admin Manager Logout:  at 2024-08-28 22:39:28
+2024-08-28 22:39:28 - Admin Manager Logout:  at 2024-08-28 22:39:28
+2024-08-28 22:39:29 - Admin Manager Logout:  at 2024-08-28 22:39:29
+2024-08-28 22:39:29 - Admin Manager Logout:  at 2024-08-28 22:39:29
+2024-08-28 22:41:05 - Admin Manager Logout:  at 2024-08-28 22:41:05
+2024-08-28 16:41:09 - Super Admin Logout:  at 2024-08-28 16:41:09
+2024-08-28 16:41:13 - Super Admin Logout:  at 2024-08-28 16:41:13
+2024-08-28 22:41:23 - Super Admin Login: jiajie
+2024-08-28 22:41:28 - Super Admin Logout: jiajie at 2024-08-28 22:41:28
+2024-08-28 22:42:29 - Super Admin Login: jiajie
+2024-08-28 22:42:35 - Super Admin Logout: jiajie at 2024-08-28 22:42:35
+2024-08-28 22:42:41 - Apartment Manager Login: shikai
+2024-08-28 22:43:14 - Apartment Manager Logout: shikai at 2024-08-28 22:43:14
+2024-08-28 22:45:12 - Super Admin Login: jiajie
+2024-08-28 22:45:24 - Super Admin Logout: jiajie at 2024-08-28 22:45:24
+2024-08-28 22:45:31 - Super Admin Login: jiajie
+2024-08-28 22:46:03 - Super Admin Logout: jiajie at 2024-08-28 22:46:03
+2024-08-28 22:46:11 - Apartment Manager Login: shikai
+2024-08-28 22:47:22 - Apartment Manager Logout: shikai at 2024-08-28 22:47:22
+2024-08-28 22:47:23 - Super Admin Login: jiajie
+2024-08-28 22:50:32 - Super Admin Logout: jiajie at 2024-08-28 22:50:32
+2024-08-28 22:51:00 - Super Admin Login: jiajie
+2024-08-28 22:57:51 - Admin Manager Logout: jiajie at 2024-08-28 22:57:51
+2024-08-28 22:58:17 - Super Admin Login: jiajie
+2024-08-28 17:07:36 - Super Admin Login: jiajie
+2024-08-28 17:08:31 - Super Admin Logout: jiajie at 2024-08-28 17:08:31
+2024-08-28 23:10:16 - Super Admin Login: jiajie
+2024-08-28 23:10:38 - Super Admin Logout: jiajie at 2024-08-28 23:10:38
+2024-08-28 23:11:04 - Super Admin Login: jiajie
+2024-08-28 23:11:08 - Super Admin Logout: jiajie at 2024-08-28 23:11:08
+2024-08-28 23:11:48 - Apartment Manager Login: shikai
+2024-08-28 23:11:52 - Apartment Manager Logout: shikai at 2024-08-28 23:11:52
+2024-08-28 23:11:53 - Super Admin Login: jiajie
+2024-08-28 23:11:59 - Admin Manager Login: shikai
+2024-08-28 23:12:05 - Admin Manager Logout: shikai at 2024-08-28 23:12:05
+2024-08-28 17:12:08 - Super Admin Login: jiajie
+2024-08-28 17:12:12 - Super Admin Logout: jiajie at 2024-08-28 17:12:12
+2024-08-28 23:18:35 - Super Admin Login: jiajie
+2024-08-28 23:21:59 - Super Admin Logout: jiajie at 2024-08-28 23:21:59
+2024-08-28 23:22:04 - Super Admin Login: jiajie
+2024-08-28 23:22:06 - Super Admin Logout: jiajie at 2024-08-28 23:22:06
+2024-08-28 23:22:09 - Apartment Manager Login: shikai
+2024-08-29 13:58:57 - Admin Manager Login: shikai
+2024-08-29 13:59:02 - Facility status changed: Gym to Open by Admin Manager ID: 5
+2024-08-29 13:59:16 - Admin Manager Logout: shikai at 2024-08-29 13:59:16
+2024-08-29 16:55:36 - Super Admin Login: jiajie
+2024-08-29 17:10:38 - Super Admin Logout: jiajie at 2024-08-29 17:10:38
+2024-08-29 17:11:01 - Super Admin Login: jiajie
+2024-08-29 17:18:49 - Super Admin Logout: jiajie at 2024-08-29 17:18:49
+2024-08-29 17:18:53 - Apartment Manager Login: shikai
+2024-08-29 11:24:07 - Super Admin Logout: shikai at 2024-08-29 11:24:07
+2024-08-29 17:24:13 - Admin Manager Login: shikai
+2024-08-29 17:25:52 - Super Admin Login: jiajie
+2024-08-29 17:25:58 - Super Admin Logout: jiajie at 2024-08-29 17:25:58
+2024-08-29 17:26:06 - Apartment Manager Login: shikai
+2024-08-29 17:26:14 - Apartment Manager Logout: shikai at 2024-08-29 17:26:14
+2024-08-29 17:26:17 - Super Admin Login: jiajie
+2024-08-29 17:31:09 - Super Admin Logout: jiajie at 2024-08-29 17:31:09
+2024-08-29 17:31:13 - Apartment Manager Login: shikai
+2024-08-29 17:33:45 - Admin Manager Logout: shikai at 2024-08-29 17:33:45
+2024-08-29 17:35:18 - Super Admin Login: jiajie
+2024-08-29 17:51:10 - Super Admin Logout: jiajie at 2024-08-29 17:51:10
+2024-08-29 17:51:12 - Super Admin Login: jiajie
+2024-08-29 17:52:01 - Super Admin Logout: jiajie at 2024-08-29 17:52:01
+2024-08-29 17:52:05 - Apartment Manager Login: shikai
+2024-08-29 17:52:15 - Apartment Manager Logout: shikai at 2024-08-29 17:52:15
+2024-08-29 17:52:17 - Super Admin Login: jiajie
+2024-08-29 17:54:30 - Super Admin Logout: jiajie at 2024-08-29 17:54:30
+2024-08-29 17:54:37 - Apartment Manager Login: shikai
+2024-08-29 17:55:17 - Apartment Manager Logout: shikai at 2024-08-29 17:55:17
+2024-08-29 17:55:19 - Super Admin Login: jiajie
+2024-08-29 17:56:16 - Super Admin Logout: jiajie at 2024-08-29 17:56:16
+2024-08-29 17:56:18 - Super Admin Login: jiajie
+2024-08-29 17:56:38 - Super Admin added: anqi
+2024-08-29 17:56:56 - Super Admin Logout: jiajie at 2024-08-29 17:56:56
+2024-08-29 17:57:01 - Super Admin Login: anqi
+2024-08-29 17:57:22 - Apartment Manager added: yutian
+2024-08-29 18:00:23 - Super Admin Logout: anqi at 2024-08-29 18:00:23
+2024-08-29 18:00:25 - Super Admin Login: jiajie
+2024-08-29 18:00:37 - Super Admin deleted: anqi
+2024-08-29 18:00:49 - Apartment Manager deleted: yutian
+2024-08-29 18:10:45 - Apartment Manager deleted: yutian
+2024-08-29 18:11:06 - Facility created: jiajie
+2024-08-29 18:12:28 - Facility deleted: 13
+2024-08-29 18:16:09 - Facility deleted: 13
+2024-08-29 18:20:08 - Facility created: jiajie
+2024-08-29 18:22:49 - Facility created: jiajie
+2024-08-29 19:26:14 - Super Admin Logout: jiajie at 2024-08-29 19:26:14
+2024-08-29 19:26:49 - Super Admin Login: jiajie
+2024-08-29 19:44:35 - Super Admin Logout: jiajie at 2024-08-29 19:44:35
+2024-08-29 19:44:40 - Apartment Manager Login: shikai
+2024-08-29 19:45:14 - Apartment Manager Logout: shikai at 2024-08-29 19:45:14
+2024-08-29 19:45:15 - Super Admin Login: jiajie
+2024-08-29 19:47:54 - Apartment Manager added: andy
+2024-08-29 19:57:12 - Super Admin Logout: jiajie at 2024-08-29 19:57:12
+2024-08-29 19:57:17 - Apartment Manager Login: shikai
+2024-08-29 19:57:23 - Apartment Manager Logout: shikai at 2024-08-29 19:57:23
+2024-08-29 19:57:26 - Super Admin Login: jiajie
+2024-08-29 20:06:05 - Super Admin Logout: jiajie at 2024-08-29 20:06:05
+2024-08-29 20:06:08 - Apartment Manager Login: shikai
+2024-08-29 20:23:02 - Facility status changed: Gym to Closed by Admin Manager ID: 5
+2024-08-29 20:27:13 - Facility status changed: Gym to Closed by Admin Manager ID: 5
+2024-08-29 20:27:15 - Apartment Manager Logout: shikai at 2024-08-29 20:27:15
+2024-08-29 20:27:16 - Super Admin Login: jiajie
+2024-08-29 20:57:23 - Facility updated: jiajie
+2024-08-29 20:58:34 - Facility updated: jiajie
+2024-08-29 20:59:21 - Facility updated: jiajie
+2024-08-29 20:59:45 - Facility updated: jiajie
+2024-08-29 21:00:44 - Facility updated: jiajie
+2024-08-29 21:00:56 - Facility updated: jiajie
+2024-08-29 21:02:51 - Super Admin Logout: jiajie at 2024-08-29 21:02:51
+2024-08-29 21:02:56 - Apartment Manager Login: shikai
+2024-08-29 21:04:51 - Apartment Manager Logout: shikai at 2024-08-29 21:04:51
+2024-08-29 21:04:52 - Super Admin Login: jiajie
+2024-08-29 21:08:51 - Super Admin Logout: jiajie at 2024-08-29 21:08:51
+2024-08-29 21:08:58 - Apartment Manager Login: shikai
+2024-08-29 21:09:52 - Apartment Manager Logout: shikai at 2024-08-29 21:09:52
+2024-08-29 21:09:53 - Super Admin Login: jiajie
+2024-08-29 21:10:21 - Super Admin added: anqi
+2024-08-29 21:10:42 - Super Admin Logout: jiajie at 2024-08-29 21:10:42
+2024-08-29 21:10:45 - Super Admin Login: anqi
+2024-08-29 21:11:06 - Apartment Manager added: yutian
+2024-08-29 21:11:32 - Super Admin Logout: anqi at 2024-08-29 21:11:32
+2024-08-29 21:11:41 - Super Admin Login: anqi
+2024-08-29 21:11:50 - Facility updated: jiajie
+2024-08-29 21:12:17 - Super Admin deleted: anqi
+2024-08-29 21:14:30 - Super Admin Logout: anqi at 2024-08-29 21:14:30
+2024-08-29 21:14:34 - Apartment Manager Login: shikai
+2024-08-29 21:19:57 - Apartment Manager Logout: shikai at 2024-08-29 21:19:57
+2024-08-29 21:19:58 - Super Admin Login: jiajie
+2024-08-29 21:32:54 - Facility deleted: ID 14
+2024-08-29 21:46:14 - Facility deleted: ID 16
+2024-08-29 21:47:55 - Facility deleted: ID 17
+2024-08-29 21:49:39 - Apartment Manager deleted: yutian
+2024-08-29 21:55:43 - Super Admin Logout: jiajie at 2024-08-29 21:55:43
+2024-08-29 21:55:47 - Apartment Manager Login: shikai
+2024-08-29 22:19:13 - Apartment Manager Logout: shikai at 2024-08-29 22:19:13
+2024-08-29 22:20:44 - Super Admin Login: jiajie
+2024-08-29 22:20:49 - Super Admin Logout: jiajie at 2024-08-29 22:20:49
+2024-08-29 22:21:43 - Super Admin Login: jiajie
+2024-08-29 22:21:52 - Super Admin Logout: jiajie at 2024-08-29 22:21:52
+2024-08-29 22:24:50 - Apartment Manager Login: shikai
+2024-08-29 22:25:03 - Apartment Manager Logout: shikai at 2024-08-29 22:25:03
+2024-08-29 22:25:14 - Apartment Manager Login: shikai
+2024-08-29 22:25:26 - Apartment Manager Logout: shikai at 2024-08-29 22:25:26
+2024-08-29 22:25:27 - Super Admin Login: jiajie
+2024-08-29 16:25:50 - Super Admin Logout: jiajie at 2024-08-29 16:25:50
+2024-08-29 22:38:21 - Super Admin Login: jiajie
+2024-08-29 22:38:28 - Super Admin Logout: jiajie at 2024-08-29 22:38:28
+2024-08-30 09:17:18 - Super Admin Login: jiajie
+2024-08-30 09:18:17 - Super Admin Logout: jiajie at 2024-08-30 09:18:17
+2024-08-30 09:18:25 - Apartment Manager Login: shikai
+2024-08-30 09:19:06 - Apartment Manager Logout: shikai at 2024-08-30 09:19:06
+2024-08-30 09:19:08 - Super Admin Login: jiajie
+2024-08-30 09:19:19 - Super Admin Logout: jiajie at 2024-08-30 09:19:19
+2024-08-30 09:19:21 - Super Admin Login: jiajie
+2024-08-30 03:20:22 - Super Admin Logout: jiajie at 2024-08-30 03:20:22
+2024-08-30 12:30:26 - Super Admin Login: jiajie
+2024-08-30 12:30:36 - Super Admin Logout: jiajie at 2024-08-30 12:30:36
+2024-08-30 12:30:40 - Apartment Manager Login: shikai
+2024-08-30 12:30:49 - Apartment Manager Logout: shikai at 2024-08-30 12:30:49
+2024-08-30 12:30:52 - Super Admin Login: jiajie
+2024-08-30 12:30:55 - Super Admin Logout: jiajie at 2024-08-30 12:30:55
+2024-08-30 12:31:00 - Apartment Manager Login: shikai
+2024-08-30 12:31:34 - Apartment Manager Logout: shikai at 2024-08-30 12:31:34
+2024-08-30 12:34:29 - Super Admin Login: jiajie
+2024-08-30 13:21:53 - Facility deleted: ID 19
+2024-08-30 14:08:10 - Super Admin Login: jiajie
+2024-08-30 14:08:30 - Apartment Manager added: shikai
+2024-08-31 12:22:39 - Super Admin Login: jiajie
+2024-08-31 12:30:01 - Facility status changed: Gym to Closed by Admin Manager ID: 1
+2024-08-31 12:31:14 - Facility status changed: Gym to Open by Admin Manager ID: 1
+2024-08-31 12:33:11 - Facility status changed: Gym to Open by Super Admin ID: 1
+2024-08-31 12:33:24 - Facility status changed: Badminton_court to Closed by Super Admin ID: 1
+2024-08-31 12:34:56 - Facility status changed: Badminton_court to Closed by Super Admin ID: 1
+2024-08-31 12:35:04 - Facility status changed: Badminton_court to Open by Super Admin ID: 1
+2024-08-31 12:36:40 - Facility status changed: Gym to Closed by Super Admin ID: 1
+2024-08-31 12:37:43 - Facility status changed: Gym to Closed by Super Admin: TanJiaJie
+2024-08-31 12:42:11 - Facility status changed: Gym to Closed by Super Admin: TanJiaJie
+2024-08-31 12:42:41 - Apartment Manager added: shikai
+2024-08-31 12:46:53 - Facility status changed: Gym to Closed by Super Admin: TanJiaJie
+2024-08-31 12:49:32 - Facility status changed: Gym to Closed by Super Admin: TanJiaJie
+2024-08-31 12:49:42 - Super Admin added: shikai
+2024-08-31 12:50:19 - Apartment Manager added: SHIKAI
+2024-08-31 12:50:56 - Apartment Manager added: SHIKAI
+2024-08-31 12:52:20 - Facility status changed: Gym to Closed by Super Admin: TanJiaJie
+2024-08-31 12:52:57 - Super Admin Logout: jiajie at 2024-08-31 12:52:57
+2024-08-31 12:53:00 - Apartment Manager Login: shikai
+2024-08-31 12:53:06 - Facility status changed: Gym to Open by Apartment Manager: shikai
+2024-08-31 12:54:35 - Facility status changed: Gym to Open by Apartment Manager: shikai
+2024-08-31 12:54:50 - Apartment Manager Logout: shikai at 2024-08-31 12:54:50
+2024-08-31 12:54:51 - Super Admin Login: jiajie
+2024-08-31 12:54:57 - Facility status changed: Gym to Closed by Super Admin: TanJiaJie
+2024-08-31 12:59:48 - Apartment Manager added: shikai
+2024-08-31 13:02:44 - Facility status changed: Gym to Closed by Super Admin: TanJiaJie
+2024-08-31 13:03:01 - Super Admin Logout: jiajie at 2024-08-31 13:03:01
+2024-08-31 13:03:05 - Apartment Manager Login: shikai
+2024-08-31 13:03:10 - Facility status changed: Gym to Open by Apartment Manager: shikai
+2024-08-31 13:10:33 - Apartment Manager Logout: shikai at 2024-08-31 13:10:33
+2024-08-31 13:10:34 - Super Admin Login: jiajie
+2024-08-31 13:10:43 - Facility status changed: Gym to Open by Super Admin: TanJiaJie
+2024-08-31 13:15:57 - Super Admin Logout: jiajie at 2024-08-31 13:15:57
+2024-08-31 13:16:00 - Apartment Manager Login: shikai
+2024-08-31 13:18:12 - Apartment Manager Logout: shikai at 2024-08-31 13:18:12
+2024-08-31 13:55:07 - Apartment Manager Login: shikai
+2024-08-31 14:01:26 - Announcement sent: repair badminton
+2024-08-31 14:01:28 - Apartment Manager Logout: shikai at 2024-08-31 14:01:28
+2024-08-31 14:01:33 - Apartment Manager Login: shikai
+2024-08-31 14:02:00 - Facility status changed: Badminton_court to Closed by Apartment Manager: shikai
+2024-08-31 14:02:22 - Facility status changed: Badminton_court to Open by Apartment Manager: shikai
+2024-08-31 14:05:52 - Facility status changed: Badminton_court to Open by Apartment Manager: shikai
+2024-08-31 14:06:56 - Announcement sent: repair badminton by user ID: 1
+2024-08-31 14:07:41 - Announcement sent: repair badminton by user ID: 1
+2024-08-31 14:07:46 - Announcement deleted: repair badminton
+2024-08-31 14:10:25 - Apartment Manager Logout: jiajie at 2024-08-31 14:10:25
+2024-08-31 14:10:26 - Super Admin Login: jiajie
+2024-08-31 14:10:42 - Super Admin added: andy
+2024-08-31 14:10:52 - Super Admin deleted: andy
+2024-08-31 14:11:11 - Super Admin Logout: jiajie at 2024-08-31 14:11:11
+2024-08-31 14:11:15 - Apartment Manager Login: shikai
+2024-08-31 14:13:40 - Apartment Manager Logout: shikai at 2024-08-31 14:13:40
+2024-08-31 14:13:41 - Super Admin Login: jiajie
+2024-08-31 14:14:41 - Facility updated: Gym
+2024-08-31 14:16:23 - Facility updated: Gym
+2024-08-31 14:17:24 - Facility updated: Gym
+2024-08-31 14:17:37 - Facility updated: Gym
+2024-08-31 14:19:07 - Facility updated: Gym
+2024-08-31 14:19:13 - Facility updated: Gym
+2024-08-31 14:19:29 - Facility updated: Gym
+2024-08-31 14:21:00 - Facility updated: Gym
+2024-08-31 14:27:13 - Facility updated: Gym by Super Admin: TanJiaJie
+2024-08-31 14:27:36 - Facility updated: Basketball_court by Super Admin: TanJiaJie
+2024-08-31 14:29:55 - Facility updated: jiajie by Super Admin ID: 1
+2024-08-31 14:31:45 - Facility updated: jiajie by Super Admin ID: 1
+2024-08-31 14:31:57 - Facility deleted: ID 4
+2024-08-31 14:32:12 - Facility updated: Basketball_court by Super Admin ID: 1
+2024-08-31 14:32:35 - Facility updated: Badminton_court by Super Admin ID: 1
+2024-08-31 14:44:26 - Facility updated: Badminton_court by  ID: 
+2024-08-31 14:44:56 - Super Admin Login: jiajie
+2024-08-31 14:45:11 - Facility updated: Badminton_court by Super Admin ID: 1
+2024-08-31 14:45:13 - Super Admin Logout: jiajie at 2024-08-31 14:45:13
+2024-08-31 14:45:14 - Super Admin Login: jiajie
+2024-08-31 15:07:15 - Super Admin Login: jiajie
+2024-08-31 15:07:18 - Super Admin Logout: jiajie at 2024-08-31 15:07:18
+2024-08-31 15:07:19 - Super Admin Login: jiajie
+2024-08-31 15:09:11 - Super Admin Logout: jiajie at 2024-08-31 15:09:11
+2024-08-31 15:09:14 - Super Admin Login: jiajie
+2024-08-31 15:13:55 - Super Admin Logout: jiajie at 2024-08-31 15:13:55
+2024-08-31 15:15:41 - Super Admin Login: jiajie
+2024-09-01 11:31:06 - Super Admin Login: jiajie
+2024-09-01 11:31:18 - Apartment Manager added: shikai
+2024-09-01 11:44:25 - Super Admin Logout: jiajie at 2024-09-01 11:44:25
+2024-09-01 11:57:44 - Super Admin Login: jiajie
+2024-09-01 11:58:34 - Super Admin Logout: jiajie at 2024-09-01 11:58:34
+2024-09-01 12:07:50 - Super Admin Login: jiajie
+2024-09-01 12:37:20 - Super Admin Login: jiajie
+2024-09-01 14:47:45 - Super Admin Login: jiajie
+2024-09-01 15:03:48 - Super Admin Logout: jiajie at 2024-09-01 15:03:48
+2024-09-01 15:03:50 - Apartment Manager Login: shikai
+2024-09-01 15:04:03 - Apartment Manager Logout: shikai at 2024-09-01 15:04:03
+2024-09-01 15:04:25 - Super Admin Login: jiajie
+2024-09-01 17:36:50 - Super Admin Login: jiajie
+2024-09-01 17:46:38 - Super Admin Logout: jiajie at 2024-09-01 17:46:38
+2024-09-01 17:46:39 - Super Admin Login: jiajie
+2024-09-01 18:08:09 - Super Admin Logout: jiajie at 2024-09-01 18:08:09
+2024-09-01 18:08:12 - Apartment Manager Login: shikai
+2024-09-01 18:14:33 - Apartment Manager Logout: shikai at 2024-09-01 18:14:33
+2024-09-01 18:14:33 - Super Admin Login: jiajie
+2024-09-03 18:58:32 - Super Admin Logout: jiajie at 2024-09-03 18:58:32
+2024-09-03 19:01:27 - Super Admin Login: jiajie
+2024-09-03 19:01:57 - Super Admin Logout: jiajie at 2024-09-03 19:01:57
+2024-09-06 12:25:46 - Super Admin Login: jiajie
+2024-09-06 12:26:07 - Apartment Manager added: shikai
+2024-09-06 12:28:05 - Super Admin Logout: jiajie at 2024-09-06 12:28:05
+2024-09-06 12:28:10 - Apartment Manager Login: shikai
+2024-09-06 12:28:22 - Facility status changed: Gym to Closed by Apartment Manager: shikai
+2024-09-06 12:41:11 - Apartment Manager Logout: shikai at 2024-09-06 12:41:11
+2024-09-06 12:41:12 - Super Admin Login: jiajie
+2024-09-06 14:37:44 - Super Admin Login: jiajie
+2024-09-07 10:53:18 - Super Admin Login: jiajie
+2024-09-07 10:54:15 - Super Admin deleted: andy
+2024-09-07 10:57:15 - Super Admin added: andy
+2024-09-07 10:57:26 - Super Admin deleted: andy
+2024-09-07 10:58:25 - Apartment Manager added: anqi
+2024-09-07 10:58:42 - Apartment Manager deleted: anqi
+2024-09-07 10:59:31 - Super Admin Logout: jiajie at 2024-09-07 10:59:31
+2024-09-07 10:59:35 - Apartment Manager Login: shikai
+2024-09-07 11:02:27 - Announcement sent: Maintaining Fitness Equipment by user ID: 1
+2024-09-07 11:02:41 - Announcement deleted: Maintaining Fitness Equipment
+2024-09-07 11:05:41 - Apartment Manager Logout: jiajie at 2024-09-07 11:05:41
+2024-09-07 11:05:43 - Super Admin Login: jiajie
+2024-09-08 13:18:46 - Super Admin Login: jiajie
+2024-09-08 13:18:52 - Super Admin Logout: jiajie at 2024-09-08 13:18:52
+2024-09-08 19:18:58 - Admin Manager Login: shikai
+2024-09-08 19:19:15 - Super Admin Login: jiajie
+2024-09-08 19:19:21 - Facility status changed: Gym to Open by Super Admin: TanJiaJie
+2024-09-08 19:19:29 - Super Admin Logout: jiajie at 2024-09-08 19:19:29
+2024-09-10 14:38:38 - Apartment Manager Login: shikai
+2024-09-10 14:40:59 - Announcement sent: Maintenance Notice: Gym Room Closure by user ID: 1
+2024-09-10 14:53:43 - Apartment Manager Logout: jiajie at 2024-09-10 14:53:43
+2024-09-10 14:57:06 - Super Admin Login: jiajie
+2024-09-10 15:12:25 - Super Admin Login: jiajie
+2024-09-11 11:12:01 - Super Admin Login: jiajie
+2024-09-11 11:12:03 - Super Admin Logout: jiajie at 2024-09-11 11:12:03
+2024-09-11 11:12:06 - Apartment Manager Login: shikai
+2024-09-16 10:09:58 - Super Admin Login: jiajie
+2024-09-18 18:09:43 - Super Admin Login: jiajie
+2024-09-18 20:36:12 - Super Admin Logout: jiajie at 2024-09-18 20:36:12
+2024-09-18 20:36:13 - Super Admin Login: jiajie
+2024-09-18 20:36:15 - Super Admin Logout: jiajie at 2024-09-18 20:36:15
+2024-09-18 20:36:18 - Apartment Manager Login: shikai
+2024-09-18 20:36:31 - Apartment Manager Logout: shikai at 2024-09-18 20:36:31
+2024-09-18 20:36:32 - Super Admin Login: jiajie
+2024-09-19 09:48:51 - Super Admin Login: jiajie
+2024-09-19 10:03:45 - Facility updated: Gym by Super Admin ID: 1
+2024-09-19 10:08:31 - Facility updated: Gym by Super Admin ID: 1
+2024-09-19 11:21:49 - Facility status changed: Gym to Open by Super Admin: TanJiaJie
+2024-09-19 11:22:15 - Facility status changed: Gym to Open by Super Admin: TanJiaJie
+2024-09-19 11:23:09 - Super Admin Logout: jiajie at 2024-09-19 11:23:09
+2024-09-19 11:23:12 - Apartment Manager Login: shikai
+2024-09-19 12:10:53 - Apartment Manager Logout: shikai at 2024-09-19 12:10:53
+2024-09-19 12:10:54 - Super Admin Login: jiajie
+2024-09-20 12:22:16 - Super Admin Login: jiajie
+2024-09-20 13:02:06 - Super Admin Login: jiajie
+2024-10-04 11:46:17 - Super Admin Login: jiajie
+2024-10-04 11:46:32 - Super Admin Logout: jiajie at 2024-10-04 11:46:32
+2024-10-04 11:46:33 - Super Admin Login: jiajie
+2024-10-04 11:46:41 - Super Admin Logout: jiajie at 2024-10-04 11:46:41

@@ -1,0 +1,345 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  padding-top: 4.5rem;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+  font-size: 2em;
+}
+
+.facility-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.facility-details img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.facility-description {
+  margin-top: 20px;
+  max-width: 800px;
+  text-align: left;
+  font-size: 1.1em;
+}
+
+.benefits-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.benefits-list li {
+  background: #f1f1f1;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  flex: 1 1 48%;
+  margin-right: 10px;
+  box-sizing: border-box;
+}
+
+.benefits-list li span {
+  font-weight: bold;
+}
+
+.button-group {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button-group a,
+.button-group button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 0 5px;
+  display: inline-block;
+  cursor: pointer;
+  border: none;
+  font-size: 1em;
+}
+
+.button-group a:hover,
+.button-group button:hover {
+  background-color: DodgerBlue;
+}
+
+#booking-forms {
+  margin-top: 20px;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.hidden {
+  display: none;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="time"],
+input[type="number"],
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"],
+.payment-button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+input[type="submit"]:hover,
+.payment-button:hover {
+  background-color: DodgerBlue;
+}
+
+.message {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 2rem;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 10px 20px;
+  /* 调整padding让导航栏的高度合适 */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar a,
+.navbar .welcome {
+  color: white;
+  text-align: center;
+  padding: 10px 15px;
+  /* 调整padding让文字居中 */
+  text-decoration: none;
+  font-size: 16px;
+  /* 适当增加字体大小 */
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 20px;
+  /* 调整行高与字体大小匹配 */
+}
+
+.navbar a:hover,
+.navbar .welcome:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.welcome {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+#reset-password {
+  display: none;
+  position: absolute;
+  top: 100%;
+  /* 使其在welcome下方对齐 */
+  left: 0;
+  background-color: #444;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+  white-space: nowrap;
+  z-index: 1000;
+}
+
+.welcome:hover #reset-password {
+  display: block;
+}
+
+.navbar a.log-out {
+  margin-left: 10px;
+  /* 分开Welcome和Log Out */
+  color: white;
+  text-decoration: none;
+  margin-right: 2rem;
+}
+
+.navbar a.log-out:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+  padding-top: 60px;
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  max-width: 500px;
+  text-align: center;
+}
+
+.modal button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+  margin: 10px;
+}
+
+.modal button:hover {
+  background-color: DodgerBlue;
+}
+
+input[readonly] {
+  background-color: #e0e0e0;
+  color: #555;
+  cursor: not-allowed;
+}
+
+.calendar {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 10px;
+}
+
+.calendar-day {
+  background: #f1f1f1;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+}
+
+.calendar-day.booked {
+  background: #ff6666;
+  color: #fff;
+}
+
+.calendar-day.available {
+  background: #66cc66;
+  color: #fff;
+}
+
+.calendar-day.unavailable {
+  background: #ccc;
+  color: #fff;
+}
+
+.calendar-day .day-number {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.calendar-day .booking-time {
+  font-size: 0.9em;
+  margin-top: 5px;
+}
+
+.calendar-day .booking-time span {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.calendar-header .month-nav {
+  margin: 0 10px;
+}
+
+.calendar-header .month-nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.week-days {
+  display: flex;
+  justify-content: space-between;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 10px;
+  font-weight: bold;
+}
+
+.week-days div {
+  flex: 1;
+  text-align: center;
+  padding: 10px 0;
+  color: black;
+}
